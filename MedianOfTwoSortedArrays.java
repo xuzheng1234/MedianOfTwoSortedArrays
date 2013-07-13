@@ -11,9 +11,9 @@ package median.of.two.sorted.arrays;
 public class MedianOfTwoSortedArrays {
 
     /**
-    Question: There are 2 sorted arrays A and B of size n each. 
+    Question: There are 2 sorted arrays A and B of size m and n. 
      * Write an algorithm to find the median of the array obtained after merging 
-     * the above 2 arrays(i.e. array of length 2n). The complexity should be O(log(n))
+     * the above 2 arrays(i.e. array of length m+n). The time complexity should be O(log(m)+og(n))
      */
     public static void main(String[] args) {
         // TODO code application logic here
